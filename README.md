@@ -2,8 +2,11 @@ Advanced nitro system for FiveM ~ MODIFIED BY ZAXOS
 ===============================
 
 THE SCRIPT HAS BEEN MODIFIED WITH THE NEW FLAMES
-+ THE FLAMES MADE PURPLE [reminiscent of another server that you know ;) ]
+THE FLAMES MADE PURPLE [reminiscent of another server that you know ;) ]
 
+!!!SOS!!!
+In order for the flame to be seen you need to add to every car in your server this ptfx asset: 
+<ptfxAssetName>veh_xs_vehicle_mods</ptfxAssetName>
 
 FUEL SYSTEM NOW WORKS
 ALONG WITH THE ITEM
