@@ -1,4 +1,18 @@
-Advanced nitro system for FiveM
+Advanced nitro system for FiveM ~ MODIFIED BY ZAXOS
+===============================
+
+THE SCRIPT HAS BEEN MODIFIED WITH THE NEW FLAMES
++ THE FLAMES MADE PURPLE [reminiscent of another server that you know ;) ]
+
+
+FUEL SYSTEM NOW WORKS
+ALONG WITH THE ITEM
+
+
+EXPECT MISTAKES!
+THIS IS NOT A DRAG&DROP script. You need to make changes for it to work on your server
+![image](https://user-images.githubusercontent.com/56772875/147705003-a4a9808c-0707-4816-b903-ddd6027fadf0.png)
+
 ===============================
 
 The most advanced nitro system for FiveM, inspired by the Need for Speed: Underground series. Works out of the box, no configuration is required.
